@@ -1,0 +1,23 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"C1, C8",0603,2,10nF,
+"C10, C2, C3, C9",0603,4,4u7,
+"C11, C12, C4, C5",0603,4,100n,C14663
+"C13, C14, C6, C7",0805,4,22uF,C45783
+"C15, C16",0603,2,82pF,
+"D1, D2",DIOM7959X250N,2,B550C-13-F,
+"D3, D5, D6, D7, D8, D9",0603,6,LED_GREEN,
+"H1, H2, H3, H4",MountingHole_3.2mm_M3_ISO7380_Pad,4,MountingHole_Pad,
+"HS1, HS2",14x14mm PCB with VIA,2,Heatsink_Pad,
+"IC1, IC2",SOIC127P600X175-9N,2,RT6285GSP,
+J1,4DBP10702,1,4DB-P107-02,
+"J2, J3, J4, J5, J6, J7",TerminalBlock_bornier-2_P5.08mm,6,5V_OUT,
+J8,PinHeader_1x03_P2.54mm_Vertical,1,V_Switch,
+J9,PinHeader_1x02_P2.54mm_Vertical,1,FAN,
+"L1, L2",INDPM140128X650N,2,15uH,
+"R1, R4, R5, R8",0603,4,DNP,
+"R11, R14, R15",0603,3,3k3,
+"R12, R13, R9",0603,3,1k,
+"R2, R6",0603,2,100k,
+R3,0603,1,31.6k,
+R7,0603,1,11.3k,
+"U1, U2",0PTF0078P,2,0PTF0078P,
