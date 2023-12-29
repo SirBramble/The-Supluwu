@@ -16,8 +16,8 @@ Heat Produced by the Regulator is spread out to the PCB and can be carried away 
 
 ## Pictures
 
-![](https://github.com/SirBramble/The-Supluwu/tree/main/The%20Supluwu%20PCB/Pictures/The%20Supluwu%20PCB%20TOP.png?raw=true)
+![ ](https://github.com/SirBramble/The-Supluwu/blob/main/The%20Supluwu%20PCB/Pictures/The%20Supluwu%20PCB%20TOP.png?raw=true)
 
-![](https://github.com/SirBramble/The-Supluwu/tree/main/The%20Supluwu%20PCB/Pictures/The%20Supluwu%20PCB%20SIDE.png?raw=true)
+![ ](https://github.com/SirBramble/The-Supluwu/blob/main/The%20Supluwu%20PCB/Pictures/The%20Supluwu%20PCB%20SIDE.png?raw=true)
 
-![](https://github.com/SirBramble/The-Supluwu/tree/main/The%20Supluwu%20PCB/Pictures/The%20Supluwu%20PCB%20SIDE%20no%20comp.png?raw=true)
+![ ](https://github.com/SirBramble/The-Supluwu/blob/main/The%20Supluwu%20PCB/Pictures/The%20Supluwu%20PCB%20TOP%20no%20comp.png?raw=true)
