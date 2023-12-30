@@ -1200,7 +1200,7 @@
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Samacsys 2:DIOM7959X250N" (at 65.1 98.425 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (property "Datasheet" "" (at -34.9 98.425 0)
       (effects (font (size 1.27 1.27)) (justify left top) hide)
