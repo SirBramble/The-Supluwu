@@ -722,6 +722,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 224560d0-b640-44d8-a742-d2babff4e4fe)
   )
+  (text "PM4343.15NLT" (at 171.45 79.375 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 3fecda9f-9190-4cc1-bddb-de1f5bd89d38)
+  )
 
   (label "VIN" (at 114.935 80.645 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
